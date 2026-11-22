@@ -12,7 +12,7 @@ set(Launcher_CommonName "PixelLauncher")
 set(Launcher_DisplayName "Pixel Launcher")
 set(Launcher_AppID "org.pixellauncher.PixelLauncher")
 set(Launcher_Domain "pixellauncher.org")
-set(Launcher_Git "https://github.com/FreesmTeam/FreesmLauncher")
+set(Launcher_Git "https://github.com/Maxzfied/pixelLauncher")
 
 set(Launcher_Name "${Launcher_CommonName}" PARENT_SCOPE)
 set(Launcher_DisplayName "${Launcher_DisplayName}" PARENT_SCOPE)

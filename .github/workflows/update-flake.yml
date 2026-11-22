@@ -13,7 +13,7 @@ permissions:
 
 jobs:
   update-flake:
-    if: github.repository == 'YOUR_GITHUB_USER/PixelLauncher'
+    if: github.repository == 'Maxzfied/pixelLauncher'
     runs-on: ubuntu-latest
 
     steps:

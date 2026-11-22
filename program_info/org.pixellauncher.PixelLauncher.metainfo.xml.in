@@ -28,11 +28,11 @@
   <screenshots>
     <screenshot type="default">
       <caption>The main Pixel Launcher window</caption>
-      <image type="source" width="1117" height="780">https://raw.githubusercontent.com/FreesmTeam/FreesmLauncher/refs/heads/develop/docs/screenshots/freesmlauncher_home_screenshot.png</image>
+      <image type="source" width="1117" height="780">https://raw.githubusercontent.com/Maxzfied/pixelLauncher/refs/heads/develop/docs/screenshots/freesmlauncher_home_screenshot.png</image>
     </screenshot>
     <screenshot>
       <caption>Modpack adding</caption>
-      <image type="source" width="1058" height="540">https://raw.githubusercontent.com/FreesmTeam/FreesmLauncher/refs/heads/develop/docs/screenshots/freesmlauncher_instance_add_screenshot.png</image>
+      <image type="source" width="1058" height="540">https://raw.githubusercontent.com/Maxzfied/pixelLauncher/refs/heads/develop/docs/screenshots/freesmlauncher_instance_add_screenshot.png</image>
     </screenshot>
     <screenshot>
       <caption>Modpack updating (from Prism Launcher)</caption>
@@ -52,22 +52,22 @@
     </screenshot>
     <screenshot>
       <caption>MiSide background :3</caption>
-      <image type="source" width="1117" height="766">https://raw.githubusercontent.com/FreesmTeam/FreesmLauncher/refs/heads/develop/docs/screenshots/freesmlauncher_home_screenshot_opacity.png</image>
+      <image type="source" width="1117" height="766">https://raw.githubusercontent.com/Maxzfied/pixelLauncher/refs/heads/develop/docs/screenshots/freesmlauncher_home_screenshot_opacity.png</image>
     </screenshot>
     <screenshot>
       <caption>Customization</caption>
-      <image type="source" width="1264" height="809">https://raw.githubusercontent.com/FreesmTeam/FreesmLauncher/refs/heads/develop/docs/screenshots/freesmlauncher_settings_theme_screenshot.png</image>
+      <image type="source" width="1264" height="809">https://raw.githubusercontent.com/Maxzfied/pixelLauncher/refs/heads/develop/docs/screenshots/freesmlauncher_settings_theme_screenshot.png</image>
     </screenshot>
   </screenshots>
   <releases>
     <release version="@Launcher_VERSION_NAME@" date="@Launcher_BUILD_TIMESTAMP@"></release>
   </releases>
-  <url type="homepage">https://github.com/FreesmTeam/FreesmLauncher</url>
-  <url type="help">https://github.com/FreesmTeam/FreesmLauncher</url>
-  <url type="bugtracker">https://github.com/FreesmTeam/FreesmLauncher/issues</url>
-  <url type="contact">https://github.com/FreesmTeam/FreesmLauncher/</url>
-  <url type="vcs-browser">https://github.com/FreesmTeam/FreesmLauncher</url>
-  <url type="contribute">https://github.com/FreesmTeam/FreesmLauncher/blob/develop/CONTRIBUTING.md</url>
+  <url type="homepage">https://github.com/Maxzfied/pixelLauncher</url>
+  <url type="help">https://github.com/Maxzfied/pixelLauncher</url>
+  <url type="bugtracker">https://github.com/Maxzfied/pixelLauncher/issues</url>
+  <url type="contact">https://github.com/Maxzfied/pixelLauncher/</url>
+  <url type="vcs-browser">https://github.com/Maxzfied/pixelLauncher</url>
+  <url type="contribute">https://github.com/Maxzfied/pixelLauncher/blob/develop/CONTRIBUTING.md</url>
   <url type="translate">https://hosted.weblate.org/projects/freesmlauncher/freesmlauncher-launcher/</url>
   <content_rating type="oars-1.1">
     <content_attribute id="violence-fantasy">moderate</content_attribute>

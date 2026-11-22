@@ -172,7 +172,7 @@ endif()
 
 ######## Set URLs ########
 set(Launcher_NEWS_RSS_URL "https://freesmlauncher.org/feed" CACHE STRING "URL to fetch Pixel Launcher's news RSS feed from.")
-set(Launcher_NEWS_OPEN_URL "https://github.com/FreesmTeam/FreesmLauncher/releases" CACHE STRING "URL that gets opened when the user clicks 'More News'")
+set(Launcher_NEWS_OPEN_URL "https://github.com/Maxzfied/pixelLauncher/releases" CACHE STRING "URL that gets opened when the user clicks 'More News'")
 set(Launcher_WIKI_URL "https://prismlauncher.org/wiki/" CACHE STRING "URL that gets opened when the user clicks 'Launcher Help'")
 set(Launcher_HELP_URL "https://prismlauncher.org/wiki/help-pages/%1" CACHE STRING "URL (with arg %1 to be substituted with page-id) that gets opened when the user requests help in a dialog window")
 set(Launcher_LOGIN_CALLBACK_URL "https://freesmlauncher.org/successful-login" CACHE STRING "URL that gets opened when the user successfully logins.")
@@ -192,7 +192,7 @@ set(Launcher_VERSION_NAME4_COMMA "${Launcher_VERSION_MAJOR},${Launcher_VERSION_M
 set(Launcher_BUILD_PLATFORM "unknown" CACHE STRING "A short string identifying the platform that this build was built for. Only used to display in the about dialog.")
 
 # Github repo URL with releases for updater
-set(Launcher_UPDATER_GITHUB_REPO "https://github.com/FreesmTeam/FreesmLauncher" CACHE STRING "Base github URL for the updater.")
+set(Launcher_UPDATER_GITHUB_REPO "https://github.com/Maxzfied/pixelLauncher" CACHE STRING "Base github URL for the updater.")
 
 # Name to help updater identify valid artifacts
 set(Launcher_BUILD_ARTIFACT "" CACHE STRING "Artifact name to help the updater identify valid artifacts.")
@@ -207,7 +207,7 @@ set(Launcher_IMGUR_CLIENT_ID "5b97b0713fba4a3" CACHE STRING "Client ID you can g
 set(Launcher_DISCORD_CLIENT_ID "1378362128125263882" CACHE STRING "Discord application ID")
 
 # Bug tracker URL
-set(Launcher_BUG_TRACKER_URL "https://github.com/FreesmTeam/FreesmLauncher/issues" CACHE STRING "URL for the bug tracker.")
+set(Launcher_BUG_TRACKER_URL "https://github.com/Maxzfied/pixelLauncher/issues" CACHE STRING "URL for the bug tracker.")
 
 # Translations Platform URL
 set(Launcher_TRANSLATIONS_URL "https://hosted.weblate.org/projects/freesmlauncher/freesmlauncher-launcher/" CACHE STRING "URL for the translations platform.")

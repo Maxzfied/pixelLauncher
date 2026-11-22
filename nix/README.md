@@ -21,7 +21,7 @@ This guide explains how to run and install **PixelLauncher** on NixOS.
 ## Running without installation
 
 ```fish
-nix run github:YOUR_GITHUB_USER/PixelLauncher#pixellauncher
+nix run github:Maxzfied/pixelLauncher#pixellauncher
 ```
 
 ## Installation
@@ -34,7 +34,7 @@ Add the flake input to your `flake.nix`:
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
 
     pixellauncher = {
-      url = "github:YOUR_GITHUB_USER/PixelLauncher";
+      url = "github:Maxzfied/pixelLauncher";
       inputs.nixpkgs.follows = "nixpkgs";
     };
   };
